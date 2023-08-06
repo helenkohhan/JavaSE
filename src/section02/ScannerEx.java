@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 	사용자로부터 데이터를 읽기 위해 사용되는 클래스
  *  Scanner 클래스를 사용하면 키보드로 입력한 텍스트, 숫자등 읽을 수 있다.
  *  
- *  
+ *  깃허브 테스트 중입니다!
  *  
  */
 public class ScannerEx {
