@@ -20,9 +20,9 @@ public class ScannerEx {
 		System.out.println("이름, 주소, 나이, 체중을 빈칸으로 구분하여 순서대로 입력하세요.");
 		//김태호 부천 39 78
 		name = scan.next(); // name = "김태호"
-		address = scan.next(); address = "부천"
-		age = scan.nextInt(); age = 39
-		weight = scan.nextDouble(); weight = 78.0;
+		address = scan.next(); // address = "부천"
+		age = scan.nextInt(); // age = 39
+		weight = scan.nextDouble(); // weight = 78.0;
 		
 		System.out.printf("당신의 이름은 %s 입니다.\n", name);
 		System.out.printf("당신의 주소는 %s 입니다.\n", address);
